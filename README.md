@@ -13,8 +13,17 @@ The main purpose of this analysis is to analyse the bike sharing system (citi bi
 Below you can see the story points in the Tableau Story using the NYC data:
 
 ![Story Point 1](/images/StoryPoint1.png "Checkout Times for Users")
+This visualisation shows the length of time the bikes are rented by users. Most bikes are returned under one hour and most being returned within half an hour.
+
+-----
+
+
 ![Story Point 2](/images/StoryPoint2.png "Checkout Times by Gender")
+To furthur narrow down, we will look at the gender of the riders, it shows the number of men who returning the bike within 10 minutes are about three times of women. We should also look at the proportion of renters in general, for each gender [here](/images/Del3_Gender.png) which shows the consistency.
+
 ![Story Point 3](/images/StoryPoint3.png "Trips by Weekdays per Hour ")
+This heatmap shows the times of days when are there more activities. This confirms that during the week, the morning rush hour is between 7am and 9am and in the afternoon between 5pm and 7pm. It also shows that for weekends it gets relatively busy starting at 9am and getting busy, but steady and it relatively quiets down by 9pm. 
+
 ![Story Point 4](/images/StoryPoint4.png "Trips by Gender (Weekday per Hour)")
 ![Story Point 5](/images/StoryPoint5.png "User Trips by Gender by Weekday")
 ![Story Point 6](/images/StoryPoint6.png "Top Starting Locations")
