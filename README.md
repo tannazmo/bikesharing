@@ -47,7 +47,13 @@ This additional story point shows the peak hours recorded in the month of August
 
 
 ## Summary: 
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
-Summary:
+In the following image, we can see three visualisations, that we can determine the age range and gender of the riders in NYC:
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+I created a calculated field for Age Range and created two visualizations off of it:
+One showing The number of rides taken by each age range, which indicates that more than 50% of the riders are between 20 and 40 years old.
+
+The other showing the heatmap of the ridership among different genders.
+
+![Dashboard for Gender and Age](/images/Del3_Dashboard.png "Age & Gender of Riders")
+
+I would suggest also craeting visualisations showing the trip duration based on Age Range and Gender for further analysis.
